@@ -107,9 +107,9 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
   },
   // Fraxtal testnet
   [2522]: {
-    router: '',
+    router: '0xE7CC16aB775B3661B3ae083942b5146DDC6ed44A',
     weth: '0xA3FC7769eDFE1a9ac77A78214c558EBb89f63d37',
-    creationBlock: 0,
+    creationBlock: 7880602,
   },
 }
 
