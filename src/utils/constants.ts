@@ -100,16 +100,16 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
     creationBlock: 9107268,
   },
   // Fraxtal
-  [252]: {
-    router: '',
-    weth: '0xFC00000000000000000000000000000000000006',
-    creationBlock: 0,
-  },
+  // [252]: {
+  //   router: '',
+  //   weth: '0xFC00000000000000000000000000000000000006',
+  //   creationBlock: 0,
+  // },
   // Fraxtal testnet
   [2522]: {
-    router: '0xE7CC16aB775B3661B3ae083942b5146DDC6ed44A',
-    weth: '0xA3FC7769eDFE1a9ac77A78214c558EBb89f63d37',
-    creationBlock: 7880602,
+    router: '0x935E5100ea3594AC65c50f9c2F3dFa6e49a56d21',
+    weth: '0xFC00000000000000000000000000000000000006',
+    creationBlock: 8185029,
   },
 }
 
