@@ -104,6 +104,18 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
     weth: '0x4300000000000000000000000000000000000004',
     creationBlock: 401447,
   },
+  // Fraxtal
+  // [252]: {
+  //   router: '',
+  //   weth: '0xFC00000000000000000000000000000000000006',
+  //   creationBlock: 0,
+  // },
+  // Fraxtal testnet
+  [2522]: {
+    router: '0x935E5100ea3594AC65c50f9c2F3dFa6e49a56d21',
+    weth: '0xFC00000000000000000000000000000000000006',
+    creationBlock: 8185029,
+  },
 }
 
 export const UNIVERSAL_ROUTER_ADDRESS = (chainId: number): string => {
