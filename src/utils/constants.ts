@@ -108,7 +108,7 @@ const CHAIN_CONFIGS: { [key: number]: ChainConfig } = {
   // Fraxtal testnet
   [2522]: {
     // This is the address of universal router on Fraxtal testnet
-    router: '0xD6Dae27166Ad64eB3E10Fb010DAa85A284C1c641',
+    router: '0x827bcF272e329BFc7ddC522FF40b56cA53a8d966',
     weth: '0xFC00000000000000000000000000000000000006',
     creationBlock: 9778086,
   },
