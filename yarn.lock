@@ -2215,9 +2215,9 @@
     tiny-invariant "^1.1.0"
     toformat "^2.0.0"
 
-"@uniswap/sdk-core@https://github.com/stablyio/uniswap-sdk-core/raw/a690e9b882d626187895dc4bc6b4c54b0309c85b/uniswap-sdk-core-v4.2.0.tgz":
+"@uniswap/sdk-core@https://github.com/stablyio/uniswap-sdk-core/raw/82e029b2a4ebb32e44f65daf898848a9dd1cd6b7/uniswap-sdk-core-v4.2.0.tgz":
   version "4.2.0"
-  resolved "https://github.com/stablyio/uniswap-sdk-core/raw/a690e9b882d626187895dc4bc6b4c54b0309c85b/uniswap-sdk-core-v4.2.0.tgz#b403a8af7a6c4149dc705f38e38b12950e323c05"
+  resolved "https://github.com/stablyio/uniswap-sdk-core/raw/82e029b2a4ebb32e44f65daf898848a9dd1cd6b7/uniswap-sdk-core-v4.2.0.tgz#ab0f30463068b67d982b8e614f694ade95d78482"
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
