@@ -51,7 +51,7 @@
   "dependencies": {
     "@uniswap/permit2-sdk": "^1.2.0",
     "@uniswap/router-sdk": "^1.9.0",
-    "@uniswap/sdk-core": "https://github.com/stablyio/uniswap-sdk-core/raw/979b68f92dd5e101d0da9bb6589da5619f8a8e71/uniswap-sdk-core-v4.2.0.tgz",
+    "@uniswap/sdk-core": "https://github.com/stablyio/uniswap-sdk-core/raw/82e029b2a4ebb32e44f65daf898848a9dd1cd6b7/uniswap-sdk-core-v4.2.0.tgz",
     "@uniswap/universal-router": "1.6.0",
     "@uniswap/v2-sdk": "^4.3.0",
     "@uniswap/v3-sdk": "^3.11.0",
